@@ -1,0 +1,9 @@
+#prompting to enter the  two numbers 
+num1 =float(input(*Enter first number:"))
+num2 =float(input(*Enter second number:"))
+# Comparing the two numbers to find the biggest one
+if num1 >num 2;
+biggest_number = num1
+else
+biggest_number = num2
+
